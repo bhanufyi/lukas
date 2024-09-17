@@ -296,3 +296,21 @@
 957244111
 959214410
 989446771
+
+Benchmark Results
+N=1000000000, K=20, Iterations=1
+
+Iteration 1:
+
+
+Running with chunk size: 512 (Iteration 1)
+
+real 1619.52
+user 2490.09
+sys 593.91
+
+Chunk size: 512, Cores used: 1.90
+
+---------------------------------
+
+

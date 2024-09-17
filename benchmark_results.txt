@@ -4,1016 +4,20 @@ N=1000000, K=4, Iterations=100
 Iteration 1:
 
 
-Running with chunk size: 128 (Iteration 1)
-
-real 0.08
-user 0.47
-sys 0.03
-
-Chunk size: 128, Cores used: 6.25
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 1)
-
-real 0.04
-user 0.26
-sys 0.01
-
-Chunk size: 256, Cores used: 6.75
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 1)
 
-real 0.01
-user 0.09
+real 0.02
+user 0.10
 sys 0.00
 
-Chunk size: 512, Cores used: 9.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 1)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
+Chunk size: 512, Cores used: 5.00
 
 ---------------------------------
 
 Iteration 2:
 
 
-Running with chunk size: 128 (Iteration 2)
-
-real 0.08
-user 0.50
-sys 0.02
-
-Chunk size: 128, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 2)
-
-real 0.04
-user 0.19
-sys 0.01
-
-Chunk size: 256, Cores used: 5.00
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 2)
-
-real 0.01
-user 0.10
-sys 0.00
-
-Chunk size: 512, Cores used: 10.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 2)
-
-real 0.01
-user 0.09
-sys 0.00
-
-Chunk size: 1024, Cores used: 9.00
-
----------------------------------
-
-Iteration 3:
-
-
-Running with chunk size: 128 (Iteration 3)
-
-real 0.07
-user 0.30
-sys 0.02
-
-Chunk size: 128, Cores used: 4.57
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 3)
-
-real 0.04
-user 0.20
-sys 0.01
-
-Chunk size: 256, Cores used: 5.25
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 3)
-
-real 0.01
-user 0.10
-sys 0.00
-
-Chunk size: 512, Cores used: 10.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 3)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 4:
-
-
-Running with chunk size: 128 (Iteration 4)
-
-real 0.07
-user 0.39
-sys 0.02
-
-Chunk size: 128, Cores used: 5.85
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 4)
-
-real 0.04
-user 0.26
-sys 0.01
-
-Chunk size: 256, Cores used: 6.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 4)
-
-real 0.02
-user 0.10
-sys 0.00
-
-Chunk size: 512, Cores used: 5.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 4)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 5:
-
-
-Running with chunk size: 128 (Iteration 5)
-
-real 0.07
-user 0.34
-sys 0.02
-
-Chunk size: 128, Cores used: 5.14
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 5)
-
-real 0.04
-user 0.20
-sys 0.01
-
-Chunk size: 256, Cores used: 5.25
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 5)
-
-real 0.02
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 5)
-
-real 0.04
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 1.50
-
----------------------------------
-
-Iteration 6:
-
-
-Running with chunk size: 128 (Iteration 6)
-
-real 0.07
-user 0.38
-sys 0.02
-
-Chunk size: 128, Cores used: 5.71
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 6)
-
-real 0.03
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 7.33
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 6)
-
-real 0.02
-user 0.15
-sys 0.00
-
-Chunk size: 512, Cores used: 7.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 6)
-
-real 0.01
-user 0.07
-sys 0.00
-
-Chunk size: 1024, Cores used: 7.00
-
----------------------------------
-
-Iteration 7:
-
-
-Running with chunk size: 128 (Iteration 7)
-
-real 0.07
-user 0.45
-sys 0.02
-
-Chunk size: 128, Cores used: 6.71
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 7)
-
-real 0.03
-user 0.19
-sys 0.01
-
-Chunk size: 256, Cores used: 6.66
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 7)
-
-real 0.01
-user 0.10
-sys 0.00
-
-Chunk size: 512, Cores used: 10.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 7)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 8:
-
-
-Running with chunk size: 128 (Iteration 8)
-
-real 0.06
-user 0.42
-sys 0.02
-
-Chunk size: 128, Cores used: 7.33
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 8)
-
-real 0.04
-user 0.24
-sys 0.01
-
-Chunk size: 256, Cores used: 6.25
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 8)
-
-real 0.01
-user 0.10
-sys 0.00
-
-Chunk size: 512, Cores used: 10.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 8)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 9:
-
-
-Running with chunk size: 128 (Iteration 9)
-
-real 0.07
-user 0.42
-sys 0.02
-
-Chunk size: 128, Cores used: 6.28
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 9)
-
-real 0.03
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 7.33
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 9)
-
-real 0.02
-user 0.13
-sys 0.00
-
-Chunk size: 512, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 9)
-
-real 0.01
-user 0.07
-sys 0.00
-
-Chunk size: 1024, Cores used: 7.00
-
----------------------------------
-
-Iteration 10:
-
-
-Running with chunk size: 128 (Iteration 10)
-
-real 0.06
-user 0.38
-sys 0.02
-
-Chunk size: 128, Cores used: 6.66
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 10)
-
-real 0.04
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 5.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 10)
-
-real 0.02
-user 0.14
-sys 0.00
-
-Chunk size: 512, Cores used: 7.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 10)
-
-real 0.01
-user 0.07
-sys 0.00
-
-Chunk size: 1024, Cores used: 7.00
-
----------------------------------
-
-Iteration 11:
-
-
-Running with chunk size: 128 (Iteration 11)
-
-real 0.07
-user 0.44
-sys 0.02
-
-Chunk size: 128, Cores used: 6.57
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 11)
-
-real 0.04
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 5.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 11)
-
-real 0.02
-user 0.10
-sys 0.00
-
-Chunk size: 512, Cores used: 5.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 11)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 12:
-
-
-Running with chunk size: 128 (Iteration 12)
-
-real 0.07
-user 0.36
-sys 0.02
-
-Chunk size: 128, Cores used: 5.42
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 12)
-
-real 0.03
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 7.66
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 12)
-
-real 0.02
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 12)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 13:
-
-
-Running with chunk size: 128 (Iteration 13)
-
-real 0.07
-user 0.38
-sys 0.01
-
-Chunk size: 128, Cores used: 5.57
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 13)
-
-real 0.04
-user 0.24
-sys 0.01
-
-Chunk size: 256, Cores used: 6.25
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 13)
-
-real 0.02
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 13)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 14:
-
-
-Running with chunk size: 128 (Iteration 14)
-
-real 0.07
-user 0.36
-sys 0.02
-
-Chunk size: 128, Cores used: 5.42
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 14)
-
-real 0.03
-user 0.17
-sys 0.01
-
-Chunk size: 256, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 14)
-
-real 0.02
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 14)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 15:
-
-
-Running with chunk size: 128 (Iteration 15)
-
-real 0.06
-user 0.40
-sys 0.02
-
-Chunk size: 128, Cores used: 7.00
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 15)
-
-real 0.04
-user 0.19
-sys 0.01
-
-Chunk size: 256, Cores used: 5.00
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 15)
-
-real 0.02
-user 0.12
-sys 0.00
-
-Chunk size: 512, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 15)
-
-real 0.01
-user 0.04
-sys 0.00
-
-Chunk size: 1024, Cores used: 4.00
-
----------------------------------
-
-Iteration 16:
-
-
-Running with chunk size: 128 (Iteration 16)
-
-real 0.06
-user 0.28
-sys 0.01
-
-Chunk size: 128, Cores used: 4.83
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 16)
-
-real 0.04
-user 0.18
-sys 0.01
-
-Chunk size: 256, Cores used: 4.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 16)
-
-real 0.03
-user 0.16
-sys 0.00
-
-Chunk size: 512, Cores used: 5.33
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 16)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 17:
-
-
-Running with chunk size: 128 (Iteration 17)
-
-real 0.07
-user 0.43
-sys 0.02
-
-Chunk size: 128, Cores used: 6.42
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 17)
-
-real 0.04
-user 0.25
-sys 0.01
-
-Chunk size: 256, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 17)
-
-real 0.02
-user 0.14
-sys 0.00
-
-Chunk size: 512, Cores used: 7.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 17)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 18:
-
-
-Running with chunk size: 128 (Iteration 18)
-
-real 0.07
-user 0.44
-sys 0.02
-
-Chunk size: 128, Cores used: 6.57
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 18)
-
-real 0.04
-user 0.24
-sys 0.01
-
-Chunk size: 256, Cores used: 6.25
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 18)
-
-real 0.01
-user 0.09
-sys 0.00
-
-Chunk size: 512, Cores used: 9.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 18)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 19:
-
-
-Running with chunk size: 128 (Iteration 19)
-
-real 0.07
-user 0.42
-sys 0.02
-
-Chunk size: 128, Cores used: 6.28
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 19)
-
-real 0.03
-user 0.18
-sys 0.01
-
-Chunk size: 256, Cores used: 6.33
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 19)
-
-real 0.02
-user 0.12
-sys 0.00
-
-Chunk size: 512, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 19)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 20:
-
-
-Running with chunk size: 128 (Iteration 20)
-
-real 0.07
-user 0.40
-sys 0.02
-
-Chunk size: 128, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 20)
-
-real 0.05
-user 0.28
-sys 0.01
-
-Chunk size: 256, Cores used: 5.80
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 20)
-
-real 0.01
-user 0.10
-sys 0.00
-
-Chunk size: 512, Cores used: 10.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 20)
-
-real 0.01
-user 0.04
-sys 0.00
-
-Chunk size: 1024, Cores used: 4.00
-
----------------------------------
-
-Iteration 21:
-
-
-Running with chunk size: 128 (Iteration 21)
-
-real 0.07
-user 0.25
-sys 0.01
-
-Chunk size: 128, Cores used: 3.71
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 21)
-
-real 0.03
-user 0.23
-sys 0.01
-
-Chunk size: 256, Cores used: 8.00
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 21)
-
-real 0.02
-user 0.15
-sys 0.00
-
-Chunk size: 512, Cores used: 7.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 21)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 22:
-
-
-Running with chunk size: 128 (Iteration 22)
-
-real 0.07
-user 0.37
-sys 0.02
-
-Chunk size: 128, Cores used: 5.57
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 22)
-
-real 0.04
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 5.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 22)
-
-real 0.02
-user 0.12
-sys 0.00
-
-Chunk size: 512, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 22)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 23:
-
-
-Running with chunk size: 128 (Iteration 23)
-
-real 0.06
-user 0.37
-sys 0.02
-
-Chunk size: 128, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 23)
-
-real 0.04
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 5.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 23)
-
-real 0.02
-user 0.13
-sys 0.00
-
-Chunk size: 512, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 23)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 24:
-
-
-Running with chunk size: 128 (Iteration 24)
-
-real 0.07
-user 0.32
-sys 0.02
-
-Chunk size: 128, Cores used: 4.85
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 24)
-
-real 0.03
-user 0.19
-sys 0.01
-
-Chunk size: 256, Cores used: 6.66
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 24)
 
 real 0.02
 user 0.09
@@ -1023,40 +27,23 @@ Chunk size: 512, Cores used: 4.50
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 24)
-
-real 0.01
-user 0.07
-sys 0.00
-
-Chunk size: 1024, Cores used: 7.00
-
----------------------------------
-
-Iteration 25:
+Iteration 3:
 
 
-Running with chunk size: 128 (Iteration 25)
-
-real 0.08
-user 0.43
-sys 0.02
-
-Chunk size: 128, Cores used: 5.62
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 25)
+Running with chunk size: 512 (Iteration 3)
 
 real 0.03
-user 0.21
+user 0.13
 sys 0.01
 
-Chunk size: 256, Cores used: 7.33
+Chunk size: 512, Cores used: 4.66
 
 ---------------------------------
 
-Running with chunk size: 512 (Iteration 25)
+Iteration 4:
+
+
+Running with chunk size: 512 (Iteration 4)
 
 real 0.02
 user 0.13
@@ -1066,126 +53,10 @@ Chunk size: 512, Cores used: 6.50
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 25)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 26:
+Iteration 5:
 
 
-Running with chunk size: 128 (Iteration 26)
-
-real 0.08
-user 0.43
-sys 0.02
-
-Chunk size: 128, Cores used: 5.62
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 26)
-
-real 0.03
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 7.33
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 26)
-
-real 0.02
-user 0.13
-sys 0.00
-
-Chunk size: 512, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 26)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 27:
-
-
-Running with chunk size: 128 (Iteration 27)
-
-real 0.08
-user 0.46
-sys 0.02
-
-Chunk size: 128, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 27)
-
-real 0.04
-user 0.24
-sys 0.01
-
-Chunk size: 256, Cores used: 6.25
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 27)
-
-real 0.01
-user 0.08
-sys 0.00
-
-Chunk size: 512, Cores used: 8.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 27)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 28:
-
-
-Running with chunk size: 128 (Iteration 28)
-
-real 0.08
-user 0.49
-sys 0.02
-
-Chunk size: 128, Cores used: 6.37
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 28)
-
-real 0.03
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 7.33
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 28)
+Running with chunk size: 512 (Iteration 5)
 
 real 0.02
 user 0.12
@@ -1195,40 +66,75 @@ Chunk size: 512, Cores used: 6.00
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 28)
+Iteration 6:
+
+
+Running with chunk size: 512 (Iteration 6)
 
 real 0.01
-user 0.05
+user 0.09
 sys 0.00
 
-Chunk size: 1024, Cores used: 5.00
+Chunk size: 512, Cores used: 9.00
 
 ---------------------------------
 
-Iteration 29:
+Iteration 7:
 
 
-Running with chunk size: 128 (Iteration 29)
+Running with chunk size: 512 (Iteration 7)
 
-real 0.07
-user 0.37
-sys 0.02
+real 0.02
+user 0.09
+sys 0.00
 
-Chunk size: 128, Cores used: 5.57
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 29)
-
-real 0.04
-user 0.20
-sys 0.01
-
-Chunk size: 256, Cores used: 5.25
+Chunk size: 512, Cores used: 4.50
 
 ---------------------------------
 
-Running with chunk size: 512 (Iteration 29)
+Iteration 8:
+
+
+Running with chunk size: 512 (Iteration 8)
+
+real 0.06
+user 0.08
+sys 0.00
+
+Chunk size: 512, Cores used: 1.33
+
+---------------------------------
+
+Iteration 9:
+
+
+Running with chunk size: 512 (Iteration 9)
+
+real 0.02
+user 0.12
+sys 0.00
+
+Chunk size: 512, Cores used: 6.00
+
+---------------------------------
+
+Iteration 10:
+
+
+Running with chunk size: 512 (Iteration 10)
+
+real 0.02
+user 0.12
+sys 0.00
+
+Chunk size: 512, Cores used: 6.00
+
+---------------------------------
+
+Iteration 11:
+
+
+Running with chunk size: 512 (Iteration 11)
 
 real 0.02
 user 0.11
@@ -1238,38 +144,242 @@ Chunk size: 512, Cores used: 5.50
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 29)
+Iteration 12:
 
-real 0.01
-user 0.05
+
+Running with chunk size: 512 (Iteration 12)
+
+real 0.02
+user 0.10
 sys 0.00
 
-Chunk size: 1024, Cores used: 5.00
+Chunk size: 512, Cores used: 5.00
+
+---------------------------------
+
+Iteration 13:
+
+
+Running with chunk size: 512 (Iteration 13)
+
+real 0.02
+user 0.13
+sys 0.00
+
+Chunk size: 512, Cores used: 6.50
+
+---------------------------------
+
+Iteration 14:
+
+
+Running with chunk size: 512 (Iteration 14)
+
+real 0.02
+user 0.12
+sys 0.00
+
+Chunk size: 512, Cores used: 6.00
+
+---------------------------------
+
+Iteration 15:
+
+
+Running with chunk size: 512 (Iteration 15)
+
+real 0.02
+user 0.09
+sys 0.00
+
+Chunk size: 512, Cores used: 4.50
+
+---------------------------------
+
+Iteration 16:
+
+
+Running with chunk size: 512 (Iteration 16)
+
+real 0.02
+user 0.11
+sys 0.00
+
+Chunk size: 512, Cores used: 5.50
+
+---------------------------------
+
+Iteration 17:
+
+
+Running with chunk size: 512 (Iteration 17)
+
+real 0.02
+user 0.13
+sys 0.00
+
+Chunk size: 512, Cores used: 6.50
+
+---------------------------------
+
+Iteration 18:
+
+
+Running with chunk size: 512 (Iteration 18)
+
+real 0.02
+user 0.12
+sys 0.01
+
+Chunk size: 512, Cores used: 6.50
+
+---------------------------------
+
+Iteration 19:
+
+
+Running with chunk size: 512 (Iteration 19)
+
+real 0.03
+user 0.13
+sys 0.01
+
+Chunk size: 512, Cores used: 4.66
+
+---------------------------------
+
+Iteration 20:
+
+
+Running with chunk size: 512 (Iteration 20)
+
+real 0.02
+user 0.11
+sys 0.00
+
+Chunk size: 512, Cores used: 5.50
+
+---------------------------------
+
+Iteration 21:
+
+
+Running with chunk size: 512 (Iteration 21)
+
+real 0.02
+user 0.09
+sys 0.00
+
+Chunk size: 512, Cores used: 4.50
+
+---------------------------------
+
+Iteration 22:
+
+
+Running with chunk size: 512 (Iteration 22)
+
+real 0.02
+user 0.08
+sys 0.00
+
+Chunk size: 512, Cores used: 4.00
+
+---------------------------------
+
+Iteration 23:
+
+
+Running with chunk size: 512 (Iteration 23)
+
+real 0.02
+user 0.14
+sys 0.00
+
+Chunk size: 512, Cores used: 7.00
+
+---------------------------------
+
+Iteration 24:
+
+
+Running with chunk size: 512 (Iteration 24)
+
+real 0.02
+user 0.11
+sys 0.00
+
+Chunk size: 512, Cores used: 5.50
+
+---------------------------------
+
+Iteration 25:
+
+
+Running with chunk size: 512 (Iteration 25)
+
+real 0.02
+user 0.10
+sys 0.00
+
+Chunk size: 512, Cores used: 5.00
+
+---------------------------------
+
+Iteration 26:
+
+
+Running with chunk size: 512 (Iteration 26)
+
+real 0.02
+user 0.12
+sys 0.00
+
+Chunk size: 512, Cores used: 6.00
+
+---------------------------------
+
+Iteration 27:
+
+
+Running with chunk size: 512 (Iteration 27)
+
+real 0.02
+user 0.12
+sys 0.00
+
+Chunk size: 512, Cores used: 6.00
+
+---------------------------------
+
+Iteration 28:
+
+
+Running with chunk size: 512 (Iteration 28)
+
+real 0.03
+user 0.13
+sys 0.01
+
+Chunk size: 512, Cores used: 4.66
+
+---------------------------------
+
+Iteration 29:
+
+
+Running with chunk size: 512 (Iteration 29)
+
+real 0.02
+user 0.13
+sys 0.00
+
+Chunk size: 512, Cores used: 6.50
 
 ---------------------------------
 
 Iteration 30:
 
-
-Running with chunk size: 128 (Iteration 30)
-
-real 0.08
-user 0.46
-sys 0.02
-
-Chunk size: 128, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 30)
-
-real 0.03
-user 0.15
-sys 0.01
-
-Chunk size: 256, Cores used: 5.33
-
----------------------------------
 
 Running with chunk size: 512 (Iteration 30)
 
@@ -1281,38 +391,8 @@ Chunk size: 512, Cores used: 6.00
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 30)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
 Iteration 31:
 
-
-Running with chunk size: 128 (Iteration 31)
-
-real 0.08
-user 0.32
-sys 0.02
-
-Chunk size: 128, Cores used: 4.25
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 31)
-
-real 0.04
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 5.75
-
----------------------------------
 
 Running with chunk size: 512 (Iteration 31)
 
@@ -1324,169 +404,10 @@ Chunk size: 512, Cores used: 4.50
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 31)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
 Iteration 32:
 
 
-Running with chunk size: 128 (Iteration 32)
-
-real 0.07
-user 0.25
-sys 0.02
-
-Chunk size: 128, Cores used: 3.85
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 32)
-
-real 0.04
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 5.50
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 32)
-
-real 0.06
-user 0.12
-sys 0.01
-
-Chunk size: 512, Cores used: 2.16
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 32)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 33:
-
-
-Running with chunk size: 128 (Iteration 33)
-
-real 0.08
-user 0.51
-sys 0.03
-
-Chunk size: 128, Cores used: 6.75
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 33)
-
-real 0.04
-user 0.24
-sys 0.01
-
-Chunk size: 256, Cores used: 6.25
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 33)
-
-real 0.02
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 33)
-
-real 0.01
-user 0.04
-sys 0.00
-
-Chunk size: 1024, Cores used: 4.00
-
----------------------------------
-
-Iteration 34:
-
-
-Running with chunk size: 128 (Iteration 34)
-
-real 0.08
-user 0.30
-sys 0.02
-
-Chunk size: 128, Cores used: 4.00
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 34)
-
-real 0.03
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 7.66
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 34)
-
-real 0.02
-user 0.09
-sys 0.00
-
-Chunk size: 512, Cores used: 4.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 34)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 35:
-
-
-Running with chunk size: 128 (Iteration 35)
-
-real 0.08
-user 0.42
-sys 0.02
-
-Chunk size: 128, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 35)
-
-real 0.04
-user 0.23
-sys 0.01
-
-Chunk size: 256, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 35)
 
 real 0.02
 user 0.12
@@ -1496,38 +417,47 @@ Chunk size: 512, Cores used: 6.00
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 35)
+Iteration 33:
 
-real 0.01
-user 0.06
+
+Running with chunk size: 512 (Iteration 33)
+
+real 0.02
+user 0.13
 sys 0.00
 
-Chunk size: 1024, Cores used: 6.00
+Chunk size: 512, Cores used: 6.50
+
+---------------------------------
+
+Iteration 34:
+
+
+Running with chunk size: 512 (Iteration 34)
+
+real 0.02
+user 0.08
+sys 0.00
+
+Chunk size: 512, Cores used: 4.00
+
+---------------------------------
+
+Iteration 35:
+
+
+Running with chunk size: 512 (Iteration 35)
+
+real 0.02
+user 0.13
+sys 0.00
+
+Chunk size: 512, Cores used: 6.50
 
 ---------------------------------
 
 Iteration 36:
 
-
-Running with chunk size: 128 (Iteration 36)
-
-real 0.07
-user 0.31
-sys 0.02
-
-Chunk size: 128, Cores used: 4.71
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 36)
-
-real 0.04
-user 0.23
-sys 0.01
-
-Chunk size: 256, Cores used: 6.00
-
----------------------------------
 
 Running with chunk size: 512 (Iteration 36)
 
@@ -1539,1373 +469,205 @@ Chunk size: 512, Cores used: 6.00
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 36)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
 Iteration 37:
 
 
-Running with chunk size: 128 (Iteration 37)
-
-real 0.08
-user 0.45
-sys 0.02
-
-Chunk size: 128, Cores used: 5.87
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 37)
-
-real 0.04
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 5.50
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 37)
 
-real 0.02
-user 0.09
+real 0.03
+user 0.13
 sys 0.00
 
-Chunk size: 512, Cores used: 4.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 37)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
+Chunk size: 512, Cores used: 4.33
 
 ---------------------------------
 
 Iteration 38:
 
 
-Running with chunk size: 128 (Iteration 38)
-
-real 0.06
-user 0.32
-sys 0.02
-
-Chunk size: 128, Cores used: 5.66
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 38)
-
-real 0.04
-user 0.23
-sys 0.01
-
-Chunk size: 256, Cores used: 6.00
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 38)
 
 real 0.02
-user 0.09
+user 0.13
 sys 0.00
 
-Chunk size: 512, Cores used: 4.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 38)
-
-real 0.01
-user 0.07
-sys 0.00
-
-Chunk size: 1024, Cores used: 7.00
+Chunk size: 512, Cores used: 6.50
 
 ---------------------------------
 
 Iteration 39:
 
 
-Running with chunk size: 128 (Iteration 39)
-
-real 0.08
-user 0.45
-sys 0.03
-
-Chunk size: 128, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 39)
-
-real 0.04
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 5.50
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 39)
 
 real 0.02
-user 0.12
+user 0.10
 sys 0.00
 
-Chunk size: 512, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 39)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
+Chunk size: 512, Cores used: 5.00
 
 ---------------------------------
 
 Iteration 40:
 
 
-Running with chunk size: 128 (Iteration 40)
-
-real 0.07
-user 0.41
-sys 0.02
-
-Chunk size: 128, Cores used: 6.14
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 40)
-
-real 0.04
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 5.75
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 40)
 
 real 0.02
-user 0.13
+user 0.09
 sys 0.00
 
-Chunk size: 512, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 40)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
+Chunk size: 512, Cores used: 4.50
 
 ---------------------------------
 
 Iteration 41:
 
 
-Running with chunk size: 128 (Iteration 41)
-
-real 0.08
-user 0.34
-sys 0.02
-
-Chunk size: 128, Cores used: 4.50
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 41)
-
-real 0.04
-user 0.20
-sys 0.01
-
-Chunk size: 256, Cores used: 5.25
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 41)
 
 real 0.02
-user 0.11
+user 0.10
 sys 0.00
 
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 41)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
+Chunk size: 512, Cores used: 5.00
 
 ---------------------------------
 
 Iteration 42:
 
 
-Running with chunk size: 128 (Iteration 42)
-
-real 0.07
-user 0.31
-sys 0.02
-
-Chunk size: 128, Cores used: 4.71
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 42)
-
-real 0.03
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 7.33
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 42)
 
 real 0.02
-user 0.13
+user 0.10
 sys 0.00
 
-Chunk size: 512, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 42)
-
-real 0.01
-user 0.07
-sys 0.00
-
-Chunk size: 1024, Cores used: 7.00
+Chunk size: 512, Cores used: 5.00
 
 ---------------------------------
 
 Iteration 43:
 
 
-Running with chunk size: 128 (Iteration 43)
-
-real 0.07
-user 0.43
-sys 0.02
-
-Chunk size: 128, Cores used: 6.42
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 43)
-
-real 0.03
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 7.33
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 43)
 
 real 0.02
-user 0.09
+user 0.10
 sys 0.00
 
-Chunk size: 512, Cores used: 4.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 43)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
+Chunk size: 512, Cores used: 5.00
 
 ---------------------------------
 
 Iteration 44:
 
 
-Running with chunk size: 128 (Iteration 44)
-
-real 0.07
-user 0.44
-sys 0.02
-
-Chunk size: 128, Cores used: 6.57
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 44)
-
-real 0.03
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 7.33
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 44)
 
 real 0.02
-user 0.11
+user 0.12
 sys 0.00
 
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 44)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
+Chunk size: 512, Cores used: 6.00
 
 ---------------------------------
 
 Iteration 45:
 
 
-Running with chunk size: 128 (Iteration 45)
-
-real 0.08
-user 0.46
-sys 0.02
-
-Chunk size: 128, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 45)
-
-real 0.04
-user 0.23
-sys 0.01
-
-Chunk size: 256, Cores used: 6.00
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 45)
 
-real 0.02
-user 0.10
-sys 0.00
+real 0.03
+user 0.14
+sys 0.01
 
 Chunk size: 512, Cores used: 5.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 45)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
 
 ---------------------------------
 
 Iteration 46:
 
 
-Running with chunk size: 128 (Iteration 46)
-
-real 0.08
-user 0.33
-sys 0.02
-
-Chunk size: 128, Cores used: 4.37
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 46)
-
-real 0.04
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 5.50
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 46)
 
 real 0.02
-user 0.15
+user 0.11
 sys 0.00
 
-Chunk size: 512, Cores used: 7.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 46)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
+Chunk size: 512, Cores used: 5.50
 
 ---------------------------------
 
 Iteration 47:
 
 
-Running with chunk size: 128 (Iteration 47)
-
-real 0.07
-user 0.41
-sys 0.03
-
-Chunk size: 128, Cores used: 6.28
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 47)
-
-real 0.04
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 5.50
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 47)
 
-real 0.01
-user 0.09
+real 0.02
+user 0.12
 sys 0.00
 
-Chunk size: 512, Cores used: 9.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 47)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
+Chunk size: 512, Cores used: 6.00
 
 ---------------------------------
 
 Iteration 48:
 
 
-Running with chunk size: 128 (Iteration 48)
-
-real 0.08
-user 0.45
-sys 0.02
-
-Chunk size: 128, Cores used: 5.87
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 48)
-
-real 0.05
-user 0.24
-sys 0.01
-
-Chunk size: 256, Cores used: 5.00
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 48)
 
 real 0.02
-user 0.12
-sys 0.00
+user 0.13
+sys 0.01
 
-Chunk size: 512, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 48)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
+Chunk size: 512, Cores used: 7.00
 
 ---------------------------------
 
 Iteration 49:
 
 
-Running with chunk size: 128 (Iteration 49)
-
-real 0.08
-user 0.40
-sys 0.03
-
-Chunk size: 128, Cores used: 5.37
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 49)
-
-real 0.04
-user 0.23
-sys 0.01
-
-Chunk size: 256, Cores used: 6.00
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 49)
 
 real 0.02
-user 0.13
-sys 0.00
+user 0.11
+sys 0.01
 
-Chunk size: 512, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 49)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
+Chunk size: 512, Cores used: 6.00
 
 ---------------------------------
 
 Iteration 50:
 
 
-Running with chunk size: 128 (Iteration 50)
-
-real 0.08
-user 0.38
-sys 0.02
-
-Chunk size: 128, Cores used: 5.00
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 50)
-
-real 0.04
-user 0.19
-sys 0.01
-
-Chunk size: 256, Cores used: 5.00
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 50)
 
-real 0.02
-user 0.10
+real 0.03
+user 0.12
 sys 0.00
 
-Chunk size: 512, Cores used: 5.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 50)
-
-real 0.04
-user 0.07
-sys 0.00
-
-Chunk size: 1024, Cores used: 1.75
+Chunk size: 512, Cores used: 4.00
 
 ---------------------------------
 
 Iteration 51:
 
 
-Running with chunk size: 128 (Iteration 51)
-
-real 0.06
-user 0.26
-sys 0.01
-
-Chunk size: 128, Cores used: 4.50
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 51)
-
-real 0.03
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 7.33
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 51)
 
-real 0.02
+real 0.03
 user 0.11
 sys 0.00
 
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 51)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
+Chunk size: 512, Cores used: 3.66
 
 ---------------------------------
 
 Iteration 52:
 
 
-Running with chunk size: 128 (Iteration 52)
-
-real 0.07
-user 0.40
-sys 0.02
-
-Chunk size: 128, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 52)
-
-real 0.03
-user 0.19
-sys 0.01
-
-Chunk size: 256, Cores used: 6.66
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 52)
-
-real 0.02
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 52)
-
-real 0.01
-user 0.08
-sys 0.00
-
-Chunk size: 1024, Cores used: 8.00
-
----------------------------------
-
-Iteration 53:
-
-
-Running with chunk size: 128 (Iteration 53)
-
-real 0.07
-user 0.37
-sys 0.02
-
-Chunk size: 128, Cores used: 5.57
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 53)
-
-real 0.03
-user 0.19
-sys 0.01
-
-Chunk size: 256, Cores used: 6.66
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 53)
-
-real 0.02
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 53)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 54:
-
-
-Running with chunk size: 128 (Iteration 54)
-
-real 0.06
-user 0.40
-sys 0.02
-
-Chunk size: 128, Cores used: 7.00
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 54)
-
-real 0.04
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 54)
-
-real 0.01
-user 0.10
-sys 0.00
-
-Chunk size: 512, Cores used: 10.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 54)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 55:
-
-
-Running with chunk size: 128 (Iteration 55)
-
-real 0.07
-user 0.44
-sys 0.03
-
-Chunk size: 128, Cores used: 6.71
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 55)
-
-real 0.04
-user 0.20
-sys 0.01
-
-Chunk size: 256, Cores used: 5.25
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 55)
-
-real 0.01
-user 0.10
-sys 0.00
-
-Chunk size: 512, Cores used: 10.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 55)
-
-real 0.02
-user 0.10
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 56:
-
-
-Running with chunk size: 128 (Iteration 56)
-
-real 0.07
-user 0.42
-sys 0.02
-
-Chunk size: 128, Cores used: 6.28
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 56)
-
-real 0.04
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 5.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 56)
-
-real 0.01
-user 0.09
-sys 0.00
-
-Chunk size: 512, Cores used: 9.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 56)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 57:
-
-
-Running with chunk size: 128 (Iteration 57)
-
-real 0.08
-user 0.47
-sys 0.02
-
-Chunk size: 128, Cores used: 6.12
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 57)
-
-real 0.04
-user 0.19
-sys 0.01
-
-Chunk size: 256, Cores used: 5.00
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 57)
-
-real 0.01
-user 0.09
-sys 0.00
-
-Chunk size: 512, Cores used: 9.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 57)
-
-real 0.01
-user 0.08
-sys 0.00
-
-Chunk size: 1024, Cores used: 8.00
-
----------------------------------
-
-Iteration 58:
-
-
-Running with chunk size: 128 (Iteration 58)
-
-real 0.07
-user 0.42
-sys 0.02
-
-Chunk size: 128, Cores used: 6.28
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 58)
-
-real 0.03
-user 0.20
-sys 0.01
-
-Chunk size: 256, Cores used: 7.00
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 58)
-
-real 0.02
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 58)
-
-real 0.01
-user 0.10
-sys 0.00
-
-Chunk size: 1024, Cores used: 10.00
-
----------------------------------
-
-Iteration 59:
-
-
-Running with chunk size: 128 (Iteration 59)
-
-real 0.07
-user 0.44
-sys 0.02
-
-Chunk size: 128, Cores used: 6.57
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 59)
-
-real 0.03
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 7.33
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 59)
-
-real 0.02
-user 0.13
-sys 0.00
-
-Chunk size: 512, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 59)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 60:
-
-
-Running with chunk size: 128 (Iteration 60)
-
-real 0.08
-user 0.43
-sys 0.02
-
-Chunk size: 128, Cores used: 5.62
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 60)
-
-real 0.05
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 4.60
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 60)
-
-real 0.02
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 60)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 61:
-
-
-Running with chunk size: 128 (Iteration 61)
-
-real 0.07
-user 0.37
-sys 0.02
-
-Chunk size: 128, Cores used: 5.57
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 61)
-
-real 0.04
-user 0.19
-sys 0.01
-
-Chunk size: 256, Cores used: 5.00
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 61)
-
-real 0.01
-user 0.07
-sys 0.00
-
-Chunk size: 512, Cores used: 7.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 61)
-
-real 0.01
-user 0.07
-sys 0.00
-
-Chunk size: 1024, Cores used: 7.00
-
----------------------------------
-
-Iteration 62:
-
-
-Running with chunk size: 128 (Iteration 62)
-
-real 0.07
-user 0.38
-sys 0.02
-
-Chunk size: 128, Cores used: 5.71
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 62)
-
-real 0.04
-user 0.24
-sys 0.01
-
-Chunk size: 256, Cores used: 6.25
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 62)
-
-real 0.01
-user 0.09
-sys 0.00
-
-Chunk size: 512, Cores used: 9.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 62)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 63:
-
-
-Running with chunk size: 128 (Iteration 63)
-
-real 0.07
-user 0.42
-sys 0.02
-
-Chunk size: 128, Cores used: 6.28
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 63)
-
-real 0.03
-user 0.17
-sys 0.01
-
-Chunk size: 256, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 63)
-
-real 0.03
-user 0.14
-sys 0.00
-
-Chunk size: 512, Cores used: 4.66
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 63)
-
-real 0.01
-user 0.08
-sys 0.00
-
-Chunk size: 1024, Cores used: 8.00
-
----------------------------------
-
-Iteration 64:
-
-
-Running with chunk size: 128 (Iteration 64)
-
-real 0.07
-user 0.46
-sys 0.02
-
-Chunk size: 128, Cores used: 6.85
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 64)
-
-real 0.04
-user 0.25
-sys 0.01
-
-Chunk size: 256, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 64)
-
-real 0.02
-user 0.12
-sys 0.00
-
-Chunk size: 512, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 64)
-
-real 0.01
-user 0.08
-sys 0.00
-
-Chunk size: 1024, Cores used: 8.00
-
----------------------------------
-
-Iteration 65:
-
-
-Running with chunk size: 128 (Iteration 65)
-
-real 0.12
-user 0.40
-sys 0.03
-
-Chunk size: 128, Cores used: 3.58
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 65)
-
-real 0.04
-user 0.26
-sys 0.01
-
-Chunk size: 256, Cores used: 6.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 65)
-
-real 0.02
-user 0.12
-sys 0.01
-
-Chunk size: 512, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 65)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 66:
-
-
-Running with chunk size: 128 (Iteration 66)
-
-real 0.07
-user 0.43
-sys 0.03
-
-Chunk size: 128, Cores used: 6.57
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 66)
-
-real 0.04
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 66)
-
-real 0.02
-user 0.13
-sys 0.00
-
-Chunk size: 512, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 66)
-
-real 0.02
-user 0.08
-sys 0.00
-
-Chunk size: 1024, Cores used: 4.00
-
----------------------------------
-
-Iteration 67:
-
-
-Running with chunk size: 128 (Iteration 67)
-
-real 0.07
-user 0.32
-sys 0.02
-
-Chunk size: 128, Cores used: 4.85
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 67)
-
-real 0.03
-user 0.20
-sys 0.01
-
-Chunk size: 256, Cores used: 7.00
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 67)
-
-real 0.02
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 67)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 68:
-
-
-Running with chunk size: 128 (Iteration 68)
-
-real 0.09
-user 0.50
-sys 0.03
-
-Chunk size: 128, Cores used: 5.88
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 68)
-
-real 0.05
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 4.40
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 68)
 
 real 0.02
 user 0.09
@@ -2915,83 +677,49 @@ Chunk size: 512, Cores used: 4.50
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 68)
-
-real 0.01
-user 0.07
-sys 0.00
-
-Chunk size: 1024, Cores used: 7.00
-
----------------------------------
-
-Iteration 69:
+Iteration 53:
 
 
-Running with chunk size: 128 (Iteration 69)
-
-real 0.06
-user 0.25
-sys 0.02
-
-Chunk size: 128, Cores used: 4.50
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 69)
-
-real 0.03
-user 0.19
-sys 0.01
-
-Chunk size: 256, Cores used: 6.66
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 69)
+Running with chunk size: 512 (Iteration 53)
 
 real 0.02
-user 0.16
+user 0.10
 sys 0.00
 
-Chunk size: 512, Cores used: 8.00
+Chunk size: 512, Cores used: 5.00
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 69)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 70:
+Iteration 54:
 
 
-Running with chunk size: 128 (Iteration 70)
+Running with chunk size: 512 (Iteration 54)
 
 real 0.07
-user 0.38
-sys 0.02
+user 0.11
+sys 0.00
 
-Chunk size: 128, Cores used: 5.71
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 70)
-
-real 0.04
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 5.75
+Chunk size: 512, Cores used: 1.57
 
 ---------------------------------
 
-Running with chunk size: 512 (Iteration 70)
+Iteration 55:
+
+
+Running with chunk size: 512 (Iteration 55)
+
+real 0.02
+user 0.09
+sys 0.00
+
+Chunk size: 512, Cores used: 4.50
+
+---------------------------------
+
+Iteration 56:
+
+
+Running with chunk size: 512 (Iteration 56)
 
 real 0.02
 user 0.08
@@ -3001,83 +729,75 @@ Chunk size: 512, Cores used: 4.00
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 70)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 71:
+Iteration 57:
 
 
-Running with chunk size: 128 (Iteration 71)
-
-real 0.07
-user 0.43
-sys 0.02
-
-Chunk size: 128, Cores used: 6.42
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 71)
-
-real 0.04
-user 0.19
-sys 0.01
-
-Chunk size: 256, Cores used: 5.00
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 71)
+Running with chunk size: 512 (Iteration 57)
 
 real 0.02
+user 0.09
+sys 0.01
+
+Chunk size: 512, Cores used: 5.00
+
+---------------------------------
+
+Iteration 58:
+
+
+Running with chunk size: 512 (Iteration 58)
+
+real 0.02
+user 0.09
+sys 0.01
+
+Chunk size: 512, Cores used: 5.00
+
+---------------------------------
+
+Iteration 59:
+
+
+Running with chunk size: 512 (Iteration 59)
+
+real 0.03
+user 0.11
+sys 0.01
+
+Chunk size: 512, Cores used: 4.00
+
+---------------------------------
+
+Iteration 60:
+
+
+Running with chunk size: 512 (Iteration 60)
+
+real 0.02
+user 0.10
+sys 0.01
+
+Chunk size: 512, Cores used: 5.50
+
+---------------------------------
+
+Iteration 61:
+
+
+Running with chunk size: 512 (Iteration 61)
+
+real 0.03
 user 0.13
 sys 0.00
 
-Chunk size: 512, Cores used: 6.50
+Chunk size: 512, Cores used: 4.33
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 71)
-
-real 0.01
-user 0.07
-sys 0.00
-
-Chunk size: 1024, Cores used: 7.00
-
----------------------------------
-
-Iteration 72:
+Iteration 62:
 
 
-Running with chunk size: 128 (Iteration 72)
-
-real 0.07
-user 0.39
-sys 0.02
-
-Chunk size: 128, Cores used: 5.85
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 72)
-
-real 0.04
-user 0.20
-sys 0.01
-
-Chunk size: 256, Cores used: 5.25
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 72)
+Running with chunk size: 512 (Iteration 62)
 
 real 0.02
 user 0.10
@@ -3087,126 +807,75 @@ Chunk size: 512, Cores used: 5.00
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 72)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 73:
+Iteration 63:
 
 
-Running with chunk size: 128 (Iteration 73)
-
-real 0.07
-user 0.30
-sys 0.02
-
-Chunk size: 128, Cores used: 4.57
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 73)
-
-real 0.04
-user 0.18
-sys 0.01
-
-Chunk size: 256, Cores used: 4.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 73)
+Running with chunk size: 512 (Iteration 63)
 
 real 0.02
+user 0.09
+sys 0.00
+
+Chunk size: 512, Cores used: 4.50
+
+---------------------------------
+
+Iteration 64:
+
+
+Running with chunk size: 512 (Iteration 64)
+
+real 0.03
+user 0.11
+sys 0.00
+
+Chunk size: 512, Cores used: 3.66
+
+---------------------------------
+
+Iteration 65:
+
+
+Running with chunk size: 512 (Iteration 65)
+
+real 0.04
 user 0.13
-sys 0.00
-
-Chunk size: 512, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 73)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 74:
-
-
-Running with chunk size: 128 (Iteration 74)
-
-real 0.09
-user 0.46
-sys 0.03
-
-Chunk size: 128, Cores used: 5.44
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 74)
-
-real 0.04
-user 0.19
 sys 0.01
 
-Chunk size: 256, Cores used: 5.00
+Chunk size: 512, Cores used: 3.50
 
 ---------------------------------
 
-Running with chunk size: 512 (Iteration 74)
+Iteration 66:
 
-real 0.01
-user 0.10
+
+Running with chunk size: 512 (Iteration 66)
+
+real 0.02
+user 0.09
 sys 0.00
 
-Chunk size: 512, Cores used: 10.00
+Chunk size: 512, Cores used: 4.50
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 74)
-
-real 0.01
-user 0.08
-sys 0.00
-
-Chunk size: 1024, Cores used: 8.00
-
----------------------------------
-
-Iteration 75:
+Iteration 67:
 
 
-Running with chunk size: 128 (Iteration 75)
+Running with chunk size: 512 (Iteration 67)
 
-real 0.08
-user 0.45
-sys 0.03
-
-Chunk size: 128, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 75)
-
-real 0.04
-user 0.26
+real 0.03
+user 0.12
 sys 0.01
 
-Chunk size: 256, Cores used: 6.75
+Chunk size: 512, Cores used: 4.33
 
 ---------------------------------
 
-Running with chunk size: 512 (Iteration 75)
+Iteration 68:
+
+
+Running with chunk size: 512 (Iteration 68)
 
 real 0.02
 user 0.11
@@ -3216,341 +885,114 @@ Chunk size: 512, Cores used: 6.00
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 75)
+Iteration 69:
 
-real 0.01
-user 0.05
+
+Running with chunk size: 512 (Iteration 69)
+
+real 0.02
+user 0.12
 sys 0.00
 
-Chunk size: 1024, Cores used: 5.00
+Chunk size: 512, Cores used: 6.00
+
+---------------------------------
+
+Iteration 70:
+
+
+Running with chunk size: 512 (Iteration 70)
+
+real 0.02
+user 0.12
+sys 0.00
+
+Chunk size: 512, Cores used: 6.00
+
+---------------------------------
+
+Iteration 71:
+
+
+Running with chunk size: 512 (Iteration 71)
+
+real 0.02
+user 0.12
+sys 0.00
+
+Chunk size: 512, Cores used: 6.00
+
+---------------------------------
+
+Iteration 72:
+
+
+Running with chunk size: 512 (Iteration 72)
+
+real 0.03
+user 0.17
+sys 0.00
+
+Chunk size: 512, Cores used: 5.66
+
+---------------------------------
+
+Iteration 73:
+
+
+Running with chunk size: 512 (Iteration 73)
+
+real 0.02
+user 0.11
+sys 0.00
+
+Chunk size: 512, Cores used: 5.50
+
+---------------------------------
+
+Iteration 74:
+
+
+Running with chunk size: 512 (Iteration 74)
+
+real 0.02
+user 0.12
+sys 0.00
+
+Chunk size: 512, Cores used: 6.00
+
+---------------------------------
+
+Iteration 75:
+
+
+Running with chunk size: 512 (Iteration 75)
+
+real 0.03
+user 0.12
+sys 0.01
+
+Chunk size: 512, Cores used: 4.33
 
 ---------------------------------
 
 Iteration 76:
 
 
-Running with chunk size: 128 (Iteration 76)
-
-real 0.08
-user 0.38
-sys 0.03
-
-Chunk size: 128, Cores used: 5.12
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 76)
-
-real 0.04
-user 0.19
-sys 0.01
-
-Chunk size: 256, Cores used: 5.00
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 76)
 
 real 0.02
-user 0.15
+user 0.11
 sys 0.00
 
-Chunk size: 512, Cores used: 7.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 76)
-
-real 0.01
-user 0.07
-sys 0.00
-
-Chunk size: 1024, Cores used: 7.00
+Chunk size: 512, Cores used: 5.50
 
 ---------------------------------
 
 Iteration 77:
 
 
-Running with chunk size: 128 (Iteration 77)
-
-real 0.08
-user 0.45
-sys 0.02
-
-Chunk size: 128, Cores used: 5.87
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 77)
-
-real 0.05
-user 0.27
-sys 0.01
-
-Chunk size: 256, Cores used: 5.60
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 77)
-
-real 0.02
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 77)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 78:
-
-
-Running with chunk size: 128 (Iteration 78)
-
-real 0.08
-user 0.39
-sys 0.02
-
-Chunk size: 128, Cores used: 5.12
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 78)
-
-real 0.04
-user 0.26
-sys 0.01
-
-Chunk size: 256, Cores used: 6.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 78)
-
-real 0.01
-user 0.09
-sys 0.00
-
-Chunk size: 512, Cores used: 9.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 78)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 79:
-
-
-Running with chunk size: 128 (Iteration 79)
-
-real 0.08
-user 0.36
-sys 0.03
-
-Chunk size: 128, Cores used: 4.87
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 79)
-
-real 0.04
-user 0.24
-sys 0.01
-
-Chunk size: 256, Cores used: 6.25
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 79)
-
-real 0.01
-user 0.10
-sys 0.00
-
-Chunk size: 512, Cores used: 10.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 79)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 80:
-
-
-Running with chunk size: 128 (Iteration 80)
-
-real 0.07
-user 0.42
-sys 0.03
-
-Chunk size: 128, Cores used: 6.42
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 80)
-
-real 0.03
-user 0.15
-sys 0.01
-
-Chunk size: 256, Cores used: 5.33
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 80)
-
-real 0.02
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 80)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 81:
-
-
-Running with chunk size: 128 (Iteration 81)
-
-real 0.06
-user 0.35
-sys 0.02
-
-Chunk size: 128, Cores used: 6.16
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 81)
-
-real 0.03
-user 0.18
-sys 0.01
-
-Chunk size: 256, Cores used: 6.33
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 81)
-
-real 0.02
-user 0.15
-sys 0.00
-
-Chunk size: 512, Cores used: 7.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 81)
-
-real 0.01
-user 0.07
-sys 0.00
-
-Chunk size: 1024, Cores used: 7.00
-
----------------------------------
-
-Iteration 82:
-
-
-Running with chunk size: 128 (Iteration 82)
-
-real 0.07
-user 0.45
-sys 0.02
-
-Chunk size: 128, Cores used: 6.71
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 82)
-
-real 0.04
-user 0.24
-sys 0.01
-
-Chunk size: 256, Cores used: 6.25
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 82)
-
-real 0.02
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 82)
-
-real 0.01
-user 0.04
-sys 0.00
-
-Chunk size: 1024, Cores used: 4.00
-
----------------------------------
-
-Iteration 83:
-
-
-Running with chunk size: 128 (Iteration 83)
-
-real 0.07
-user 0.50
-sys 0.02
-
-Chunk size: 128, Cores used: 7.42
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 83)
-
-real 0.04
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 83)
 
 real 0.02
 user 0.10
@@ -3560,40 +1002,10 @@ Chunk size: 512, Cores used: 5.00
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 83)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 84:
+Iteration 78:
 
 
-Running with chunk size: 128 (Iteration 84)
-
-real 0.07
-user 0.32
-sys 0.01
-
-Chunk size: 128, Cores used: 4.71
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 84)
-
-real 0.04
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 5.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 84)
+Running with chunk size: 512 (Iteration 78)
 
 real 0.02
 user 0.13
@@ -3603,40 +1015,36 @@ Chunk size: 512, Cores used: 6.50
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 84)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 85:
+Iteration 79:
 
 
-Running with chunk size: 128 (Iteration 85)
+Running with chunk size: 512 (Iteration 79)
 
-real 0.07
-user 0.40
-sys 0.03
-
-Chunk size: 128, Cores used: 6.14
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 85)
-
-real 0.05
-user 0.26
+real 0.02
+user 0.11
 sys 0.01
 
-Chunk size: 256, Cores used: 5.40
+Chunk size: 512, Cores used: 6.00
 
 ---------------------------------
 
-Running with chunk size: 512 (Iteration 85)
+Iteration 80:
+
+
+Running with chunk size: 512 (Iteration 80)
+
+real 0.02
+user 0.10
+sys 0.00
+
+Chunk size: 512, Cores used: 5.00
+
+---------------------------------
+
+Iteration 81:
+
+
+Running with chunk size: 512 (Iteration 81)
 
 real 0.02
 user 0.11
@@ -3646,212 +1054,75 @@ Chunk size: 512, Cores used: 5.50
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 85)
+Iteration 82:
 
-real 0.01
-user 0.07
+
+Running with chunk size: 512 (Iteration 82)
+
+real 0.02
+user 0.10
 sys 0.00
 
-Chunk size: 1024, Cores used: 7.00
+Chunk size: 512, Cores used: 5.00
+
+---------------------------------
+
+Iteration 83:
+
+
+Running with chunk size: 512 (Iteration 83)
+
+real 0.05
+user 0.10
+sys 0.01
+
+Chunk size: 512, Cores used: 2.20
+
+---------------------------------
+
+Iteration 84:
+
+
+Running with chunk size: 512 (Iteration 84)
+
+real 0.02
+user 0.10
+sys 0.00
+
+Chunk size: 512, Cores used: 5.00
+
+---------------------------------
+
+Iteration 85:
+
+
+Running with chunk size: 512 (Iteration 85)
+
+real 0.03
+user 0.10
+sys 0.01
+
+Chunk size: 512, Cores used: 3.66
 
 ---------------------------------
 
 Iteration 86:
 
 
-Running with chunk size: 128 (Iteration 86)
-
-real 0.08
-user 0.41
-sys 0.02
-
-Chunk size: 128, Cores used: 5.37
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 86)
-
-real 0.04
-user 0.21
-sys 0.01
-
-Chunk size: 256, Cores used: 5.50
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 86)
 
-real 0.01
+real 0.02
 user 0.10
 sys 0.00
 
-Chunk size: 512, Cores used: 10.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 86)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
+Chunk size: 512, Cores used: 5.00
 
 ---------------------------------
 
 Iteration 87:
 
 
-Running with chunk size: 128 (Iteration 87)
-
-real 0.08
-user 0.41
-sys 0.03
-
-Chunk size: 128, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 87)
-
-real 0.04
-user 0.17
-sys 0.01
-
-Chunk size: 256, Cores used: 4.50
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 87)
-
-real 0.01
-user 0.11
-sys 0.00
-
-Chunk size: 512, Cores used: 11.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 87)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 88:
-
-
-Running with chunk size: 128 (Iteration 88)
-
-real 0.07
-user 0.43
-sys 0.03
-
-Chunk size: 128, Cores used: 6.57
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 88)
-
-real 0.05
-user 0.27
-sys 0.01
-
-Chunk size: 256, Cores used: 5.60
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 88)
-
-real 0.02
-user 0.13
-sys 0.01
-
-Chunk size: 512, Cores used: 7.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 88)
-
-real 0.01
-user 0.04
-sys 0.00
-
-Chunk size: 1024, Cores used: 4.00
-
----------------------------------
-
-Iteration 89:
-
-
-Running with chunk size: 128 (Iteration 89)
-
-real 0.07
-user 0.42
-sys 0.03
-
-Chunk size: 128, Cores used: 6.42
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 89)
-
-real 0.04
-user 0.28
-sys 0.01
-
-Chunk size: 256, Cores used: 7.25
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 89)
-
-real 0.01
-user 0.10
-sys 0.00
-
-Chunk size: 512, Cores used: 10.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 89)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 90:
-
-
-Running with chunk size: 128 (Iteration 90)
-
-real 0.08
-user 0.47
-sys 0.03
-
-Chunk size: 128, Cores used: 6.25
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 90)
-
-real 0.04
-user 0.18
-sys 0.01
-
-Chunk size: 256, Cores used: 4.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 90)
 
 real 0.02
 user 0.14
@@ -3861,38 +1132,47 @@ Chunk size: 512, Cores used: 7.00
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 90)
+Iteration 88:
 
-real 0.01
-user 0.06
+
+Running with chunk size: 512 (Iteration 88)
+
+real 0.02
+user 0.08
 sys 0.00
 
-Chunk size: 1024, Cores used: 6.00
+Chunk size: 512, Cores used: 4.00
+
+---------------------------------
+
+Iteration 89:
+
+
+Running with chunk size: 512 (Iteration 89)
+
+real 0.03
+user 0.12
+sys 0.00
+
+Chunk size: 512, Cores used: 4.00
+
+---------------------------------
+
+Iteration 90:
+
+
+Running with chunk size: 512 (Iteration 90)
+
+real 0.02
+user 0.12
+sys 0.00
+
+Chunk size: 512, Cores used: 6.00
 
 ---------------------------------
 
 Iteration 91:
 
-
-Running with chunk size: 128 (Iteration 91)
-
-real 0.06
-user 0.31
-sys 0.02
-
-Chunk size: 128, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 91)
-
-real 0.03
-user 0.20
-sys 0.01
-
-Chunk size: 256, Cores used: 7.00
-
----------------------------------
 
 Running with chunk size: 512 (Iteration 91)
 
@@ -3904,169 +1184,10 @@ Chunk size: 512, Cores used: 5.50
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 91)
-
-real 0.01
-user 0.08
-sys 0.00
-
-Chunk size: 1024, Cores used: 8.00
-
----------------------------------
-
 Iteration 92:
 
 
-Running with chunk size: 128 (Iteration 92)
-
-real 0.07
-user 0.30
-sys 0.03
-
-Chunk size: 128, Cores used: 4.71
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 92)
-
-real 0.04
-user 0.25
-sys 0.01
-
-Chunk size: 256, Cores used: 6.50
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 92)
-
-real 0.02
-user 0.08
-sys 0.00
-
-Chunk size: 512, Cores used: 4.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 92)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 93:
-
-
-Running with chunk size: 128 (Iteration 93)
-
-real 0.08
-user 0.47
-sys 0.03
-
-Chunk size: 128, Cores used: 6.25
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 93)
-
-real 0.04
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 5.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 93)
-
-real 0.02
-user 0.12
-sys 0.00
-
-Chunk size: 512, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 93)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
-
----------------------------------
-
-Iteration 94:
-
-
-Running with chunk size: 128 (Iteration 94)
-
-real 0.08
-user 0.49
-sys 0.03
-
-Chunk size: 128, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 94)
-
-real 0.04
-user 0.25
-sys 0.01
-
-Chunk size: 256, Cores used: 6.50
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 94)
-
-real 0.02
-user 0.11
-sys 0.01
-
-Chunk size: 512, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 94)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
-
----------------------------------
-
-Iteration 95:
-
-
-Running with chunk size: 128 (Iteration 95)
-
-real 0.07
-user 0.39
-sys 0.02
-
-Chunk size: 128, Cores used: 5.85
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 95)
-
-real 0.04
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 5.75
-
----------------------------------
-
-Running with chunk size: 512 (Iteration 95)
 
 real 0.02
 user 0.13
@@ -4076,227 +1197,106 @@ Chunk size: 512, Cores used: 6.50
 
 ---------------------------------
 
-Running with chunk size: 1024 (Iteration 95)
+Iteration 93:
 
-real 0.01
-user 0.04
+
+Running with chunk size: 512 (Iteration 93)
+
+real 0.02
+user 0.11
 sys 0.00
 
-Chunk size: 1024, Cores used: 4.00
+Chunk size: 512, Cores used: 5.50
+
+---------------------------------
+
+Iteration 94:
+
+
+Running with chunk size: 512 (Iteration 94)
+
+real 0.02
+user 0.13
+sys 0.00
+
+Chunk size: 512, Cores used: 6.50
+
+---------------------------------
+
+Iteration 95:
+
+
+Running with chunk size: 512 (Iteration 95)
+
+real 0.01
+user 0.08
+sys 0.00
+
+Chunk size: 512, Cores used: 8.00
 
 ---------------------------------
 
 Iteration 96:
 
 
-Running with chunk size: 128 (Iteration 96)
-
-real 0.08
-user 0.45
-sys 0.03
-
-Chunk size: 128, Cores used: 6.00
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 96)
-
-real 0.05
-user 0.30
-sys 0.01
-
-Chunk size: 256, Cores used: 6.20
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 96)
 
-real 0.02
+real 0.03
 user 0.10
 sys 0.01
 
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 96)
-
-real 0.01
-user 0.07
-sys 0.00
-
-Chunk size: 1024, Cores used: 7.00
+Chunk size: 512, Cores used: 3.66
 
 ---------------------------------
 
 Iteration 97:
 
 
-Running with chunk size: 128 (Iteration 97)
-
-real 0.09
-user 0.49
-sys 0.03
-
-Chunk size: 128, Cores used: 5.77
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 97)
-
-real 0.04
-user 0.22
-sys 0.01
-
-Chunk size: 256, Cores used: 5.75
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 97)
 
 real 0.02
-user 0.11
+user 0.12
 sys 0.00
 
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 97)
-
-real 0.01
-user 0.05
-sys 0.00
-
-Chunk size: 1024, Cores used: 5.00
+Chunk size: 512, Cores used: 6.00
 
 ---------------------------------
 
 Iteration 98:
 
 
-Running with chunk size: 128 (Iteration 98)
-
-real 0.13
-user 0.39
-sys 0.03
-
-Chunk size: 128, Cores used: 3.23
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 98)
-
-real 0.04
-user 0.20
-sys 0.01
-
-Chunk size: 256, Cores used: 5.25
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 98)
 
 real 0.02
-user 0.11
+user 0.13
 sys 0.00
 
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 98)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
+Chunk size: 512, Cores used: 6.50
 
 ---------------------------------
 
 Iteration 99:
 
 
-Running with chunk size: 128 (Iteration 99)
-
-real 0.07
-user 0.26
-sys 0.02
-
-Chunk size: 128, Cores used: 4.00
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 99)
-
-real 0.04
-user 0.23
-sys 0.01
-
-Chunk size: 256, Cores used: 6.00
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 99)
 
 real 0.02
-user 0.11
-sys 0.00
+user 0.12
+sys 0.01
 
-Chunk size: 512, Cores used: 5.50
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 99)
-
-real 0.01
-user 0.06
-sys 0.00
-
-Chunk size: 1024, Cores used: 6.00
+Chunk size: 512, Cores used: 6.50
 
 ---------------------------------
 
 Iteration 100:
 
 
-Running with chunk size: 128 (Iteration 100)
-
-real 0.08
-user 0.32
-sys 0.03
-
-Chunk size: 128, Cores used: 4.37
-
----------------------------------
-
-Running with chunk size: 256 (Iteration 100)
-
-real 0.04
-user 0.26
-sys 0.01
-
-Chunk size: 256, Cores used: 6.75
-
----------------------------------
-
 Running with chunk size: 512 (Iteration 100)
 
 real 0.02
-user 0.10
+user 0.11
 sys 0.00
 
-Chunk size: 512, Cores used: 5.00
-
----------------------------------
-
-Running with chunk size: 1024 (Iteration 100)
-
-real 0.01
-user 0.04
-sys 0.00
-
-Chunk size: 1024, Cores used: 4.00
+Chunk size: 512, Cores used: 5.50
 
 ---------------------------------

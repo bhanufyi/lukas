@@ -1,4 +1,8 @@
-# Execution Instructions
+# DOSP Project 1
+
+## Github Repo Link : <https://github.com/bhanufyi/lukas>
+
+## Execution Instructions
 
 ```bash
 cd lukas
@@ -14,6 +18,9 @@ ponyc
 
 Runs 100 iterations of the benchmark with n = 1000000 and k = 4 with varying chunk sizes.
 
+results are stored in [benchmark_results.txt](./benchmark_results.txt)
+
+
 ## Observations
 
 ### Iterations and Chunk Sizes
@@ -24,14 +31,17 @@ Runs 100 iterations of the benchmark with n = 1000000 and k = 4 with varying chu
 ### Performance by Chunk Size
 
 - **Chunk Size 128**:
+
   - Higher real and user times compared to larger chunk sizes.
   - The number of cores used fluctuates between **4 and 7**, but the CPU is not fully utilized.
 
 - **Chunk Size 256**:
+
   - Cores used range from **5 to 8**, with some peaks at 7.66 cores.
   - More efficient than chunk size 128 but still not consistently using the full CPU.
 
 - **Chunk Size 512**:
+
   - Cores used consistently range from **5 to 10**.
   - Several iterations reach full CPU utilization, peaking at 10 cores, though some drops as low as 4.5 indicate variability.
 
@@ -62,3 +72,9 @@ Runs 100 iterations of the benchmark with n = 1000000 and k = 4 with varying chu
 - **Peak Efficiency**: Iterations with chunk sizes **512** and **1024** achieve the fastest execution times and highest CPU core utilization.
 
 In summary, chunk sizes **512** and **1024** provide optimal parallelism and performance, while smaller chunk sizes may lead to lower efficiency and inconsistent core utilization.
+
+### Largest Input
+
+n = 10000000000 k = 20
+
+Results present in [largest_comp.txt](./largest_comp.txt)

@@ -19,7 +19,7 @@ if [ ! -x "$EXECUTABLE" ]; then
 fi
 
 # Array of chunk sizes to try
-CHUNK_SIZES=(128 256 512 1024)
+CHUNK_SIZES=(512)
 
 # Output file to store benchmark results
 OUTPUT_FILE="benchmark_results.txt"
